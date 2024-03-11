@@ -1,0 +1,13 @@
+<odoo>
+    <data>
+
+        <record model="opentop" id="openacademy.opentop">
+
+            <field name="name">Lonoal02</field>
+            <field name="description">Best top EUW behind goncho</field>
+            <field name="elo">1</field>
+
+        </record>
+
+    </data>
+</odoo>
